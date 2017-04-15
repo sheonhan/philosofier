@@ -1,0 +1,6 @@
+#!/bin/zsh
+
+for file in ./*.txt
+do
+	split -l 100 "${file}" "${file/.txt/_}"
+done
