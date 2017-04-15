@@ -4,6 +4,9 @@ Adviser: [Prof. Christiane Fellbaum](https://www.cs.princeton.edu/~fellbaum/)
 
 An NLP machine learning project submitted for Princeton's CS Junior Independent Work. Classifies textual documents based on their philosophical and religion inclination.
 
+**A winner of "Best Poster Award" for Princeton CS Department's Junior Independent Work.**  
+
+
 ### Motivation
 - As a reflection of the recent election…
 - Use categories other than liberal/conservative views to detect:
@@ -29,5 +32,7 @@ An NLP machine learning project submitted for Princeton's CS Junior Independent 
 - Democratic and Republican Parties' Presidential Nomination Speeches
 - 2016 Presidential Candidates Hillary Clinton and Donald Trump's Campaign Speeches
 
+### Result?
+![clinton_trump](/images/2017/04/clinton_trump.jpg)
 
-**A winner of "Best Poster Award" for Princeton CS Department's Junior Independent Work.**  
+Surprise, surprise.
