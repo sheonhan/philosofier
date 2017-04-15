@@ -33,6 +33,6 @@ An NLP machine learning project submitted for Princeton's CS Junior Independent 
 - 2016 Presidential Candidates Hillary Clinton and Donald Trump's Campaign Speeches
 
 ### Result?
-![clinton_trump](/images/2017/04/clinton_trump.jpg)
+![clinton_trump](./clinton_trump.jpg)
 
 Surprise, surprise.
