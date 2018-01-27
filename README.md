@@ -1,6 +1,6 @@
 # Philosofier
 Paper Title: "Analyzing chronological changes in philosophical and religious inclination from text"  
-Adviser: [Prof. Christiane Fellbaum](https://www.cs.princeton.edu/~fellbaum/)
+Adviser: [Professor Christiane D. Fellbaum](https://www.cs.princeton.edu/~fellbaum/)
 
 An NLP machine learning project submitted for Princeton's CS Junior Independent Work. Classifies textual documents based on their philosophical and religion inclination.
 
